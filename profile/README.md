@@ -60,6 +60,23 @@ Product information should be easy to find and easy to understand. We maintain d
 
 Our projects span different stages of development. The [official product catalog](https://tonecustoms.github.io/tonecustoms-docs/) and [Tebex store](https://tonecustoms.tebex.store/) provide the relevant product information and current purchasing options.
 
+## HOW WE WORK
+
+A resource should make sense from the first interaction to the final result. Our development approach starts with the roleplay experience and carries through implementation, review, documentation, and approved release.
+
+| Stage | What matters |
+| --- | --- |
+| **Concept & Purpose** | Define the player experience or server problem the resource addresses |
+| **System Design** | Establish the interaction flow, dependencies, configuration, and boundaries |
+| **Development** | Implement the system with attention to usability, consistency, and server integration |
+| **Review & Refinement** | Evaluate the complete gameplay loop, handle issues, and refine the experience |
+| **Documentation** | Explain installation, relevant requirements, supported behavior, and limitations |
+| **Approved Release** | Publish customer-facing builds and updates only after owner approval |
+
+[**Read More About Our Development Process**](https://github.com/ToneCustoms/tonecustoms-docs/blob/main/OUR_PROCESS.md)
+
+---
+
 ## FEATURED TONECUSTOMS RESOURCES
 
 ### Product Information
