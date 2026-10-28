@@ -1,0 +1,28 @@
+name: Feature or improvement
+description: Suggest a change to a ToneCustoms resource or its documentation
+title: "[Idea] "
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Related resource or page
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or roleplay scenario
+      description: Explain what this idea would improve.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested outcome
+      description: Describe the desired behavior without assuming it has been approved.
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Compatibility or other considerations
