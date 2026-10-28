@@ -140,6 +140,8 @@ The guide covers finding the right script, checking current availability, unders
 | --- | --- |
 | **Scripts and purchasing** | [ToneCustoms Tebex Store](https://tonecustoms.tebex.store/) |
 | **Getting started** | [Official Documentation](https://tonecustoms.github.io/tonecustoms-docs/) |
+| **Before and after purchasing** | [Customer Checklist](https://tonecustoms.github.io/tonecustoms-docs/CUSTOMER_CHECKLIST) |
+| **Fixing installation or gameplay issues** | [Troubleshooting Center](https://tonecustoms.github.io/tonecustoms-docs/TROUBLESHOOTING) |
 | **Help with a resource** | [Customer Support Discord](https://discord.gg/JdZ7NTG5KF) |
 | **Updates and release information** | [Updates Policy](https://github.com/ToneCustoms/tonecustoms-docs/blob/main/policies/UPDATES.md) |
 | **Terms and licensing** | [Customer Policy Center](https://github.com/ToneCustoms/tonecustoms-docs/blob/main/policies/README.md) |
