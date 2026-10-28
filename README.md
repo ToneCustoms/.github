@@ -20,3 +20,11 @@ The public organization profile is defined in [`profile/README.md`](profile/READ
 - Maintain both the organization and founder profiles without assuming repositories must be transferred between accounts.
 
 **ToneCustoms — Built for Roleplay. Made with Purpose.**
+
+## Business standards
+
+- [Customer support and contact channels](SUPPORT.md)
+- [Community code of conduct](CODE_OF_CONDUCT.md)
+- [Confidential security reporting](SECURITY.md)
+- [Contribution standards](CONTRIBUTING.md)
+- [Organization-wide issue and pull request templates](.github/ISSUE_TEMPLATE/)
