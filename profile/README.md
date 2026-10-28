@@ -102,6 +102,14 @@ A resource should make sense from the first interaction to the final result. Our
 
 ---
 
+## NEW TO TONECUSTOMS?
+
+Whether you're comparing resources for your city or setting up a product you already own, we've organized the essentials into one place.
+
+**[Start Here — ToneCustoms Customer Guide](https://github.com/ToneCustoms/tonecustoms-docs/blob/main/START_HERE.md)**
+
+The guide covers finding the right script, checking current availability, understanding requirements, locating your installation instructions, and reaching the correct support channel.
+
 ## OUR COMMITMENT TO CUSTOMERS
 
 **Professional development includes more than the resource itself.** We aim to give customers clear expectations about the product they are considering and a straightforward way to get help after purchase.
