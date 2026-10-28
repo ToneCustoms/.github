@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ToneCustoms customer support
+    url: https://discord.gg/JdZ7NTG5KF
+    about: For product installation, licensing, and general support, contact ToneCustoms.
+  - name: Official product documentation
+    url: https://tonecustoms.github.io/tonecustoms-docs/
+    about: Read product guides, installation instructions, and policies.
+  - name: Official store
+    url: https://tonecustoms.tebex.store/
+    about: Check current products, availability, and checkout information.
