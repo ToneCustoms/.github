@@ -60,6 +60,16 @@ Product information should be easy to find and easy to understand. We maintain d
 
 Our projects span different stages of development. The [official product catalog](https://tonecustoms.github.io/tonecustoms-docs/) and [Tebex store](https://tonecustoms.tebex.store/) provide the relevant product information and current purchasing options.
 
+## CUSTOM DEVELOPMENT & PROJECT INQUIRIES
+
+Every roleplay server has its own priorities. Alongside our existing resource projects, ToneCustoms provides a clear way to discuss ideas for custom gameplay systems, specialized interactions, and server operations.
+
+Our [Custom Development Guide](https://tonecustoms.github.io/tonecustoms-docs/CUSTOM_DEVELOPMENT) explains what information is useful when presenting a project idea and how we approach scope and technical requirements. Project acceptance, availability, pricing, and delivery arrangements are confirmed individually rather than promised in advance.
+
+[**Explore Custom Development**](https://tonecustoms.github.io/tonecustoms-docs/CUSTOM_DEVELOPMENT) · [**Contact ToneCustoms**](https://discord.gg/JdZ7NTG5KF)
+
+---
+
 ## HOW WE WORK
 
 A resource should make sense from the first interaction to the final result. Our development approach starts with the roleplay experience and carries through implementation, review, documentation, and approved release.
