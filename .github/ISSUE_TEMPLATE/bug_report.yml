@@ -1,0 +1,45 @@
+name: Bug report
+description: Report a reproducible issue in a ToneCustoms resource or repository
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not share credentials, private license keys, payment details, private source code, or security vulnerabilities in public issues. For sensitive reports, request a confidential contact method through ToneCustoms Discord.
+  - type: input
+    id: resource
+    attributes:
+      label: Resource
+      description: Which ToneCustoms resource or repository is affected?
+      placeholder: tonecustoms_resource
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Framework and dependencies
+      placeholder: Qbox / QBCore / ESX, dependency versions where relevant
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Redacted logs or screenshots
+      description: Remove all secrets and personal information before posting.
