@@ -112,6 +112,12 @@ A resource should make sense from the first interaction to the final result. Our
 
 ---
 
+## FIND THE RIGHT RESOURCE
+
+Not sure which ToneCustoms system fits your server? Our [Script Selection Guide](https://tonecustoms.github.io/tonecustoms-docs/CHOOSE_A_SCRIPT) compares documented resources by gameplay purpose and helps you review compatibility, installation, and current store availability before purchasing.
+
+---
+
 ## NEW TO TONECUSTOMS?
 
 Whether you're comparing resources for your city or setting up a product you already own, we've organized the essentials into one place.
